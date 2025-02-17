@@ -7,3 +7,7 @@
 ## Demostración de ejecución
 
 [Ver grabación del juego](ENLAChttps://youtu.be/QGTC1YniBBw)
+
+## Demostración del juego Brain Calc
+
+[Ver grabación Brain Calc](Ehttps://youtu.be/tf5fk6LfvDs)
