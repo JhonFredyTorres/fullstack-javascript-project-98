@@ -15,3 +15,8 @@
 ## Demostración del juego Brain GCD
 
 [Ver grabación Brain GCD](https://youtu.be/LU8Rt2u0aLQ)
+
+
+## Demostración del juego Brain Progression
+
+[Ver grabación Brain Progression](https://youtu.be/WvPIQLKmBVg)
