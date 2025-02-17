@@ -20,3 +20,7 @@
 ## Demostración del juego Brain Progression
 
 [Ver grabación Brain Progression](https://youtu.be/WvPIQLKmBVg)
+
+## Demostración del juego Brain Prime
+
+[Ver grabación Brain Prime](https://youtu.be/AMEAEJheDFM)
