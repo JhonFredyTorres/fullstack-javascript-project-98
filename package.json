@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/JhonFredyTorres/fullstack-javascript-project-98/issues"
   },
-  "homepage": "https://github.com/JhonFredyTorres/fullstack-javascript-project-98#readme"
+  "homepage": "https://github.com/JhonFredyTorres/fullstack-javascript-project-98#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
