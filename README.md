@@ -6,8 +6,12 @@
 
 ## Demostración de ejecución
 
-[Ver grabación del juego](ENLAChttps://youtu.be/QGTC1YniBBw)
+[Ver grabación del juego](https://youtu.be/QGTC1YniBBw)
 
 ## Demostración del juego Brain Calc
 
-[Ver grabación Brain Calc](Ehttps://youtu.be/tf5fk6LfvDs)
+[Ver grabación Brain Calc](https://youtu.be/tf5fk6LfvDs)
+
+## Demostración del juego Brain GCD
+
+[Ver grabación Brain GCD](https://youtu.be/LU8Rt2u0aLQ)
