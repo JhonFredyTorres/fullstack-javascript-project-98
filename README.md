@@ -3,3 +3,7 @@
 
 ### Maintainability Badge:
 [![Maintainability](https://api.codeclimate.com/v1/badges/5a04f2ad83e9a205c5b2/maintainability)](https://codeclimate.com/github/JhonFredyTorres/fullstack-javascript-project-98/maintainability)
+
+## Demostración de ejecución
+
+[Ver grabación del juego](ENLAChttps://youtu.be/QGTC1YniBBw)

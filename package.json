@@ -1,11 +1,12 @@
 {
   "name": "@hexlet/code",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "[![Actions Status](https://github.com/JhonFredyTorres/fullstack-javascript-project-98/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/JhonFredyTorres/fullstack-javascript-project-98/actions)",
   "type": "module",
   "main": "bin/brain-games.js",
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
