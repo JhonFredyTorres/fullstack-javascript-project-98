@@ -1,0 +1,24 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/JhonFredyTorres/fullstack-javascript-project-98/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/JhonFredyTorres/fullstack-javascript-project-98/actions)",
+  "type": "module",
+  "main": "bin/brain-games.js",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhonFredyTorres/fullstack-javascript-project-98.git"
+  },
+  "keywords": [],
+  "author": "Jhon Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhonFredyTorres/fullstack-javascript-project-98/issues"
+  },
+  "homepage": "https://github.com/JhonFredyTorres/fullstack-javascript-project-98#readme"
+}
