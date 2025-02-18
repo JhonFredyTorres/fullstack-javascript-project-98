@@ -1,4 +1,3 @@
-import readlineSync from 'readline-sync';
 import runGameEngine from '../index.js';
 
 const generateQuestion = () => {

@@ -3,8 +3,8 @@ import readlineSync from 'readline-sync';
 const isEven = (num) => num % 2 === 0;
 
 const playEvenGame = () => {
-  console.log("¡Bienvenido a Brain Games!");
-  const userName = readlineSync.question("¿Cuál es tu nombre? ");
+  console.log('¡Bienvenido a Brain Games!');
+  const userName = readlineSync.question('¿Cuál es tu nombre? ');
   console.log(`¡Hola, ${userName}!\n`);
   console.log('Responde "yes" si el número es par, de lo contrario responde "no".');
 
@@ -12,7 +12,7 @@ const playEvenGame = () => {
   while (correctAnswers < 3) {
     const number = Math.floor(Math.random() * 100) + 1;
     console.log(`Pregunta: ${number}`);
-    const answer = readlineSync.question("Tu respuesta: ").toLowerCase();
+    const answer = readlineSync.question('Tu respuesta: ').toLowerCase();
 
     const correctAnswer = isEven(number) ? 'yes' : 'no';
 
@@ -23,7 +23,7 @@ const playEvenGame = () => {
     }
 
     if (answer === correctAnswer) {
-      console.log("¡Correcto!");
+      console.log('¡Correcto!');
       correctAnswers += 1;
     } else {
       console.log(`'${answer}' es una respuesta incorrecta ;(. La respuesta correcta era '${correctAnswer}'.`);
